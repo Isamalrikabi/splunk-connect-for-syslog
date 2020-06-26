@@ -36,15 +36,19 @@ SC4S is pre-configured to map each sourcetype to a typical index. For new instal
 using the SC4S defaults. SC4S can be easily customized to use different indexes if desired.
 
 * email
+* epav
 * netauth
+* netdlp
+* netdns
 * netfw
 * netids
+* netpam
 * netops
 * netwaf
 * netproxy
-* netipam
 * oswinsec
 * osnix
+* oswin
 * em_metrics (Optional opt-in for SC4S operational metrics; ensure this is created as a metrics index)
 
 #### Install Related Splunk Apps
